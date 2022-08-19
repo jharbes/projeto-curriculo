@@ -1,0 +1,9 @@
+Tarefas que devemos realizar para criar nosso currículo on-line:
+
+    Criar menu superior, avaliar a utilização de dropdown, responsividade e possibilidade de utilização de media queries.
+
+    Consultar fontes e cores utilizadas no design;
+
+    Salvar imagens de fundo para utilização;
+	
+	Fazer design de containers do corpo do projeto, avaliar a largura da tela para uma boa leitura em qualquer aplicativo (max-width).
